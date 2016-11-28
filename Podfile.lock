@@ -1,0 +1,20 @@
+PODS:
+  - JSONModel (1.7.0)
+  - OCMock (3.3.1)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+
+DEPENDENCIES:
+  - JSONModel (~> 1.7.0)
+  - OCMock (~> 3.3.1)
+  - SDWebImage (~> 3.8.2)
+
+SPEC CHECKSUMS:
+  JSONModel: 840bc0fcffb24b8454d2c026bf26fea454b8e98d
+  OCMock: f3f61e6eaa16038c30caa5798c5e49d3307b6f22
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+
+PODFILE CHECKSUM: 0b2c26bfe3d99ecf1de3d422908b89084b5a0dd7
+
+COCOAPODS: 1.1.1
